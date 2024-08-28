@@ -1,0 +1,18 @@
+
+
+
+{% extends 'EB/base.html' %}
+
+{% block content %}
+  <h2>Image Details</h2>
+  <img src="{{ car_image.image.url }}" alt="Uploaded Image">
+  <p>Car Model: {{ car_image.car_model }}</p>
+  <p>Description: {{ car_image.model_description }}</p>
+
+  <script>
+    if (performance.navigation.type === performance.navigation.TYPE_RELOAD) {
+      window.location.href = "{% url 'upload_image' %}";
+    }
+  </script>
+{% endblock %}
+
