@@ -1,0 +1,58 @@
+[
+    {
+        "question": "Hi",
+        "answer": "Hi, I am your virtual assistant. Can I help you?"
+    },
+    {
+        "question": "Where do you operate?",
+        "answer": "We operate from New York City, NY"
+    },
+    {
+        "question": "What payment methods do you accept?",
+        "answer": "We accept debit cards, major credit cards and PayPal"
+    },
+    {
+        "question": "I would like to speak to your customer services agent?",
+        "answer": "Please call +1 (212) 859-3469. Our operating hours are from 9am to 5pm, Monday to Friday"
+    },
+    {
+        "question": "what do you know?",
+        "answer": "I am still under early development and my knowledge is limited to some information related to Cadillac cars and this website. My knowledge might change over time."
+    },
+    {
+        "question": "Where is new york?",
+        "answer": "New York is located in the northeastern United States."
+    },
+    {
+        "question": "Can you provide a comprehensive list of historical Cadillac models, including their production years and notable features?",
+        "answer": "The LaSalle, produced from 1927 to 1940, was the first production automobile to be designed, as to its general shape and all its features, entirely by an automobile stylist (Harley J. Earl) rather than by draftsmen and mechanical engineers.\nThe V16, produced from 1930 to 1940, was Sixteen-cylinder powering, complete individuality in style.\nThe Eldorados, produced from 1953 to present, has a limited-production special convertible body that is quite unlike the standard 1953 Cadillac Convertible Coupe, Style 53-6267.\u00a0 The four fenders, trunk lid and floor pan are the only major body panels that are shared intact with the standard convertible; the hood, cowl, doors and body shell are coach-built by the craftsmen of Fisher/Fleetwood.\nCheck  Historical - Automobiles sections for images of more models and more information!"
+    },
+    {
+        "question": "Tell me Evolution of Cadillac Advertising",
+        "answer": "What sold Cadillacs in the early years was the car's proven durability and reliabilty. From the twenties through the late sixties, you needed to \"be somebody\" (preferably with lots of money) if you were to aspire one day to owing the automobile Standard of the World. In the seventies, Cadillac's copy writers aimed at a much broader spectrum of potential buyers; in addition to quality, founded on years of Cadillac's occupying the pole position among US luxury car vendors, volume sales were now the company's new aspiration. \nAnd what of today's Cadillacs? Well, if you look at the ad for the 2007 Cadillac DTS [an unfortunate acronym for someone like me whose late alcoholic father suffered from the DTs!], what seems to be most important is having a \"nicely erquipped\" car (whatever that means), with new-fangled gizmos like a \"touch-screen, DVD-based, navigation [system] with voice recognition\" and an \"8-speaker, Bose sound system with CD/MP3 player.\" \n"
+    },
+    {
+        "question": "How do I repair my car?",
+        "answer": "I'm sorry to hear that you're experiencing a technical issue with your Cadillac. To schedule the repair of your car, please visit the Cadillac official website: https://www.cadillac.com/ownership/certified-service/service-and-repair."
+    },
+    {
+        "question": "What are the latest Cadillac models released, and what are their key features and specifications?",
+        "answer": "Check cadillac official website for latest information: https://www.cadillac.com/"
+    },
+    {
+        "question": "What are some common maintenance tips for keeping a Cadillac in top condition?",
+        "answer": "You can find maintenance tips here: https://www.cadillac.com/support/vehicle/engines-power/engine-transmission \n"
+    },
+    {
+        "question": "I'm considering joining a Cadillac owners' club. Can you provide information on local or national clubs dedicated to Cadillac enthusiasts?",
+        "answer": "The Cadillac & LaSalle Club Inc. (CLC) is the largest active international organization for Cadillac enthusiasts, with almost 50 domestic Regions, 18 International Affiliate groups, and 11 Chapters that focus on special interests such as LaSalles, \u201941 Cadillacs, Allant\u00e9s, Broughams, etc. https://www.cadillaclasalleclub.org/ "
+    },
+    {
+        "question": "What are some popular aftermarket modifications or accessories available for Cadillac vehicles?",
+        "answer": "You can find some popular aftermarket modifications or accessories available for Cadillac vehicles here: https://accessories.cadillac.com/"
+    },
+    {
+        "question": "Does the website have a digital archive or database of old Cadillac marketing materials?",
+        "answer": "https: You can old Cadillac marketing materials (advertisement) here: https://www.newcadillacdatabase.org/Historical/Documentation/Advertisements/Cadillac"
+    }
+]
